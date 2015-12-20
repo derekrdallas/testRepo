@@ -8,3 +8,5 @@ a Basic starter to make sure things work
 help pages link : https://pages.github.com/
 
 gh-pages link:https://help.github.com/categories/github-pages-basics/
+
+4.test sync
